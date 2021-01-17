@@ -15,6 +15,19 @@ const round = require("round-api.js");
 const music = new round("sua-key", client) //Key gerada no site https://dashboard.roundbot.tk/ e o "client" é o seu bot, ou seja á instancia que você fez para o client exemplo:
 const client = new Discord.Client();
 ```
+# Propiedades e funções (Sem comentarios)
+```js
+music.play(message, args, (song) => {});
+music.stop(message, () => {});
+music.loop(message, args, (song) => {});
+music.skip(message, () => {});
+music.pause(message, () => {});
+music.resume(message, () => {});
+music.lyrics(message, (song) => {});
+music.queue(message, (song) => {});
+music.jump(message, args, (song) => {});
+music.volume(message, args, (song) => {});
+```
 # Propiedades e funções
 ```js
 //Play
