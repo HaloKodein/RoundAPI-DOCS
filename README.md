@@ -136,6 +136,6 @@ instance.property(params, callbacks());//instancia.propiedade(parametro, chamada
 Qualquer dúvida ou erro entrar em contato com á nossa equipe pelo discord:
 https://discord.gg/amYQNpTRaw
 Ou entrar em contato diretamente com o CEO da nossa equipe e desenvolvedor de todas as blibiotecas nex:
-``Purplex#1125`` or CTO ``Jeff '-'#0374``
+``Purplex#1125`` ou CTO ``Jeff '-'#0374``
 
 Obrigado!
